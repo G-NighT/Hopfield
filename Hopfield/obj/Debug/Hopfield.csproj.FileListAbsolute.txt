@@ -1,0 +1,44 @@
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\Hopfield.exe
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\Hopfield.pdb
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.Form1.resources
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.exe
+c:\users\rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\obj\Debug\Hopfield.pdb
+C:\Users\Rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\MathNet.Iridium.dll
+C:\Users\Rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Users\Rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Users\Rarity\documents\visual studio 2012\Projects\Hopfield\Hopfield\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\obj\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\Hopfield-master (2)\Hopfield-master\Hopfield\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\obj\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\obj\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\bin\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\bin\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\obj\Debug\Hopfield.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\сломано\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\bin\Debug\Hopfield.exe
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\bin\Debug\Hopfield.pdb
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.Form1.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\ВУЗ\3 КУРС\ИНТЕЛЛЕКТУАЛЬНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\6 СЕМЕСТР\Лабораторная работа 4\лаба\Hopfield\obj\Debug\Hopfield.csprojResolveAssemblyReference.cache
